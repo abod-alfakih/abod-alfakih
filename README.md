@@ -15,6 +15,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D9%82-%D8%A7%D9%84%D9%81%D9%82%D9%8A%D9%87-4940991b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abod-alfakih " height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006053237644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abod-alfakih" height="30" width="40" /></a>
 <a href="https://instagram.com/Abod_Alfakih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abod-alfakih" height="30" width="40" /></a>
 </p>
  
