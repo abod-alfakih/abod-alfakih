@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm  Abd Ul-khalek Al-Fakih</h1>
 <h3 align="center">A biomedical engineering student at Cairo university, SBME Department</h3>
-<div align="center"><img src=https://user-images.githubusercontent.com/61319952/169928402-5e61327e-e9fa-4a44-bdb9-499123bc6cfd.gif class="img-responsive" align="center" alt=""> </div>
- 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abod-alfakih&label=Profile%20views&color=0e75b6&style=flat" alt="al-fakih" /> </p>
+
+
 
 - 📫 How to reach me **abdulkhalek.mohammed98@eng-st.cu.edu.eg**
 
